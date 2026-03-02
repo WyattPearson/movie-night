@@ -1,0 +1,5 @@
+1. The ADMIN panel should be able to delete a movie night which also cleans up any DB artifacts from that movie night
+2. There should be a count down timer on the homepage for all the steps 1) when nominations close, 2) when voting is closed, 3) when the movie night is
+3. Nominations, Voting Open, Closed, etc. should have a button in the ADMIN page to run automically. Nominations last for a week, voting lasts for a week. When I first create a Movie Night item it should be manual stage selection, but there should be a button that triggers automatic. Automatic can maybe work by doing math on the current date and the final date?
+4. We should be able to send email notifications for when different stages trigger but they should only send on open of a new movie night to everyone in the allow list and then further stage changes only send for a given movie night if the user has RSVP'd YES/Maybe
+5. Add a "Last Month's Results" card to the homepage
